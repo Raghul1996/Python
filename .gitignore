@@ -1,0 +1,10 @@
+venv/*
+*.txt
+*.xlsx
+*.docx
+*.jpeg
+*.png
+*.bmp
+*.pdf
+*.csv
+*.jpg
